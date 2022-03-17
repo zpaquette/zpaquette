@@ -36,8 +36,8 @@ HTML, CSS, SCSS, Javascript, jQuery, VueJs, React, PHP, mySQL, Google Tag Manage
 2012: **BAS, Infomatics**; Indiana University-Purdue University at Indianapolis  
 
 ## References
-Casey Marks: Director of Technology
-Dale Kachele: Sr Web Developer  
-Randy Stocklin: Entrepreneur & Investor  
+- Casey Marks: Director of Technology
+- Dale Kachele: Sr Web Developer  
+- Randy Stocklin: Entrepreneur & Investor  
 
 <sup>*I will provide contact information upon request</sup>
