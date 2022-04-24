@@ -35,8 +35,8 @@ HTML, CSS, SCSS, Javascript, jQuery, Vue, React, PHP, mySQL, Google Tag Manager,
 
 ## Education
 
-2012: **BAS, Infomatics**; Indiana University-Purdue University at Indianapolis 
-2008: **Associate of Arts, Graphic and Web Design**; Ivy Tech Community College of Indiana
+- 2012: **BAS, Infomatics**; Indiana University-Purdue University at Indianapolis 
+- 2008: **Associate of Arts, Graphic and Web Design**; Ivy Tech Community College of Indiana
 
 ## References
 - Casey Marks: Director of Technology
