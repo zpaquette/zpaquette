@@ -1,14 +1,14 @@
-Personal Read.me
+### Personal Read.me
 
 Welcome to my Read.me! I am excited to get to know you and work with you. I expect it will take some time before everyone is fully comfortable with one another and I hope this document will aid in that effort. This is in no way a fully comprehensive document of everything I am but it's a good place to start.
 
 # Who am I?
 
-Non Work
+### Non Work
 
 Outside of work I am a man of many hobbies and interests. Everything from woodworking to recording music to playing a round of golf. I enjoy keeping busy and building things. I am married and have one dog, Max who is my best buddy, and two cats Gus and Arwen. Mental health is a very important topic in my life and I truly like to try to balance work and life.
 
-Work
+### Work
 
 In the office I am a highly dedicated and excitable person. I love working on projects, building features, and learning new and better ways of doing things. Testing new ideas and brainstorming are two of my loves. I am always open to help, give sanity checks, and talk over new ideas. 
 
@@ -26,13 +26,13 @@ I also grew up with two younger sisters and a brother. My house was always very 
 
 # What I Value
 
-Respect -This is something that I value and that I believe everyone deserves. If you ever feel I have not shown you the respect you deserve, first know that I am sorry and second please let me know so we can address it. 
+**Respect** -This is something that I value and that I believe everyone deserves. If you ever feel I have not shown you the respect you deserve, first know that I am sorry and second please let me know so we can address it. 
 
-Curiosity - I am a very curious person. I love to learn and try new things. I love questions and like asking questions. I believe there can sometimes be a stigma attached to questions but I don't pay attention to it. “He who asks a question may be perceived as a fool for a moment but he who never asks a question will be a fool for their lifetime.”
+**Curiosity** - I am a very curious person. I love to learn and try new things. I love questions and like asking questions. I believe there can sometimes be a stigma attached to questions but I don't pay attention to it. “He who asks a question may be perceived as a fool for a moment but he who never asks a question will be a fool for their lifetime.”
 
-Dedication - I am in it to win it! I am a very dedicated person both in my personal life and my work life. I will put in the hours, blood, sweat, and tears. I love to celebrate wins as a team and look back fondly at the work we put in to get there.
+**Dedication** - I am in it to win it! I am a very dedicated person both in my personal life and my work life. I will put in the hours, blood, sweat, and tears. I love to celebrate wins as a team and look back fondly at the work we put in to get there.
 
-Honesty - Nothing breaks down a team or a relationship like a lie. 
+**Honesty** - Nothing breaks down a team or a relationship like a lie. 
 
 
 # Favorite Quotes
