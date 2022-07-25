@@ -10,13 +10,13 @@ Outside of work I am a man of many hobbies and interests. Everything from woodwo
 
 ### Work
 
-In the office I am a highly dedicated and excitable person. I love working on projects, building features, and learning new and better ways of doing things. Testing new ideas and brainstorming are two of my loves. I am always open to help, give sanity checks, and talk over new ideas. 
+In the office, I am a highly dedicated and excitable person. I love working on projects, building features, and learning new and better ways of doing things. Testing new ideas and brainstorming are two of my loves. I am always open to help, giving sanity checks, and talking over new ideas.
 
-I have two philosophies that guide me while at work. The first is “I’ve done this before, so I’m sure I can”. Sometimes the best thing to do is just jump in and try something new. You’re going to learn something no matter what the outcome. The second is F.A.I.L. First Attempt In Learning. At some point something is not going to go as expected. That’s ok. It took me a long time to learn that. Fail fast and pivot to the next idea! 
+I have two philosophies that guide me while at work. The first is “I’ve done this before, so I’m sure I can”. Sometimes the best thing to do is just jump in and try something new. You’re going to learn something no matter what the outcome. The second is F.A.I.L. First Attempt In Learning. At some point, something is not going to go as expected. That’s ok. It took me a long time to learn that. Fail fast and pivot to the next idea!
 
 # Communication 
 
-Each form of modern communication has its time and place. That being said, my least favorite form of communication is email. If we are at work and you need me I am always open to a face to face conversation or a slack. If I have my headphones on I am usually in dungeon mode and would appreciate a slack to let me know you need my attention. 
+Each form of modern communication has its time and place. That being said, my least favorite form of communication is email. If we are at work and you need me I am always open to a face-to-face conversation or a slack. If I have my headphones on I am usually in dungeon mode and would appreciate a slack to let me know you need my attention. 
 
 You can feel free to text me at any time and I will always do my best to get back to you quickly. My number is (317)-801-1400. 
 
