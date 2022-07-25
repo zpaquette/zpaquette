@@ -43,5 +43,9 @@ I also grew up with two younger sisters and a brother. My house was always very 
 - If at first you don’t succeed, try and try again.
 - Be kind to yourself and give grace to others.
 
+# Disclaimer
+
+This is a living document and will likly be updated and changed as time goes on.
+
 
 
