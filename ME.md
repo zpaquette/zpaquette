@@ -37,11 +37,11 @@ I also grew up with two younger sisters and a brother. My house was always very 
 
 # Favorite Quotes
 
-It’s not the mistake you make that counts but how you respond to it.
-F.A.I.L - First Attempt In Learning.
-I’ve never done that before so I am sure I can.
-If at first you don’t succeed, try and try again.
-Be kind to yourself and give grace to others.
+- It’s not the mistake you make that counts but how you respond to it.
+- F.A.I.L - First Attempt In Learning.
+- I’ve never done that before so I am sure I can.
+- If at first you don’t succeed, try and try again.
+- Be kind to yourself and give grace to others.
 
 
 
