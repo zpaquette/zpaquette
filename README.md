@@ -43,3 +43,5 @@ HTML, CSS, SCSS, Javascript, jQuery, Vue, React, PHP, mySQL, Google Tag Manager,
 - Dale Kachele: Senior Director of Technology (Last known title)  
 
 <sup>*I will provide contact information upon request</sup>
+
+[![Geek Merit Badges](https://www.geekmeritbadges.com/u/zpaquette)](https://www.geekmeritbadges.com)
